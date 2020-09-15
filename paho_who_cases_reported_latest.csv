@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Country / territory,Measure Names,Month of Date,Report Epi Week,Year of Date,Country / territory,Date,Measure Values,Laboratory confirmed cases,Suspected cases
 Aruba,Suspected,January,1,2016,Aruba,"January, 2016",0,0,0
 Aruba,Confirmed ,January,1,2016,Aruba,"January, 2016",0,0,0
@@ -1216,7 +1215,7 @@ Venezuela,Suspected,December,51,2015,Venezuela,"December, 2015",0,0,0
 Venezuela,Confirmed ,December,51,2015,Venezuela,"December, 2015",0,0,0
 Venezuela,Suspected,December,52,2015,Venezuela,"December, 2015",0,0,0
 Venezuela,Confirmed ,December,52,2015,Venezuela,"December, 2015",0,0,0
-=======
+=======,,,,,,,,,
 Country / territory,Measure Names,Month of Date,Report Epi Week,Year of Date,Country / territory,Date,Measure Values,Laboratory confirmed cases,Suspected cases
 Aruba,Suspected,January,1,2016,Aruba,"January, 2016",0,0,0
 Aruba,Confirmed ,January,1,2016,Aruba,"January, 2016",0,0,0
@@ -2434,4 +2433,3 @@ Venezuela,Suspected,December,51,2015,Venezuela,"December, 2015",0,0,0
 Venezuela,Confirmed ,December,51,2015,Venezuela,"December, 2015",0,0,0
 Venezuela,Suspected,December,52,2015,Venezuela,"December, 2015",0,0,0
 Venezuela,Confirmed ,December,52,2015,Venezuela,"December, 2015",0,0,0
->>>>>>> 1fc8f82c078a09cea2594f8f80dca020e10ea53c
